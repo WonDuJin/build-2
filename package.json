@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/WonDuJin/build-2/issues"
   },
-  "homepage": "https://github.com/WonDuJin/build-2#readme"
+  "homepage": "https://github.com/WonDuJin/build-2#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
